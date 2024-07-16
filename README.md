@@ -21,5 +21,5 @@ If you have any feedback or improvemnets please open an Issues ticket.
 
 ## C++ Implementation
 
- - [C++ Class implementation][(https://github.com/](https://github.com/Infinity585/CPP-L530-API)
+ - [C++ Class implementation](https://github.com/Infinity585/CPP-L530-API)
  - [ESP32 CYD implementation](https://github.com/)
